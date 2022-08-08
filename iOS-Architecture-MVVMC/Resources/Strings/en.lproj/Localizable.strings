@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  iOS-Architecture-MVVMC
+
+  Created by Vu Le Van on 2022/05/20.
+  
+*/
+
+//MARK: Common
+"common.message.ok" = "OK";
+"common.title.error" = "Error";
+"common.button.cancel" = "Cancel";
+"common.message.local_have_response" = "LocalError: Have response";
+"common.message.local_custom" = "LocalError: \(string)";
+"common.message.local_any" = "LocalError: Any Error";
+"common.message.service_time_out" = "ServiceError: Request Time Out";
+"common.message.service_url" = "ServiceError: URL Not Work";
+"common.message.service_json" = "ServiceError: Fail from Json";
+"common.message.service_localized" = "ServiceError: \(localizedDescription)";
+"common.message.service_nointernet" = "ServiceError: Network not conected!";
+"common.message.service_have_response" = "ServiceError: Have response";
+"common.message.service_statuscode" = "ServiceError: Service Response ";
+"common.message.service_custom" = "ServiceError: \(string)";
+"common.message.service_any" = "ServiceError: Out Of Define Error";
+"common.message.service_nodata" = "ServiceError: No Data Response";
+"common.message.service_maping_key_json" = "ServiceError: maping Json Key Fail";
+"common.message.service_encode_data" = "ServiceError: Encode data fail";
+"common.message.service_input_param" = "ServiceError: Input Param Not Work";
+"common.message.service_refresh_token" = "ServiceError: refresh token failed";
+
+//MARK: LoginScreen
+"loginscreen.label.user_name" = "UserName";
+"loginscreen.label.password" = "Password";
+"loginscreen.label.login" = "LOGIN";
+"loginscreen.button.login" = "Login";
+"loginscreen.message.enter_name" = "Please enter username.";
+"loginscreen.message.enter_user" = "Please enter username at least 5 characters";
+"loginscreen.message.enter_password" = "Please enter password.";
+"loginscreen.message.enter_password_least" = "Please enter password at least 5 characters";
+"loginscreen.message.login_success" = "Login Successful";
+
+//MARK: Animals Screen
+"animalsscreen.title" = "Animals";
+
+//MARK: Profile Screen
+"profilescreen.title" = "Profile";
+"profilescreen.label.name" = "Name";
+"profilescreen.label.email" = "Email";
+"profilescreen.label.phone" = "Phone";
+"profilescreen.label.city" = "City";

@@ -1,0 +1,13 @@
+//
+//  Qa.xcconfig
+//  iOS-Architecture-MVVMC
+//
+//  Created by Vu Le Van on 2022/06/30.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+// Server URL
+BASE_URL = https:/$()/qa-api.free.beeceptor.com
+APP_NAME = N-Qa
+APP_BUNDLE_ID = qa.nals.ios.iOS-Architecture-MVVMC
