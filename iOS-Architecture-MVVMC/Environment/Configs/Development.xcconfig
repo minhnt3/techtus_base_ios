@@ -1,0 +1,14 @@
+//
+//  Development.xcconfig
+//  iOS-Architecture-MVVMC
+//
+//  Created by Vu Le Van on 2022/06/30.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+// Server URL
+BASE_URL = https:/$()/62cce3f98042b16aa7d4ffa6.mockapi.io/api/v1
+APP_NAME = N-Dev
+APP_BUNDLE_ID = dev.nals.ios.iOS-Architecture-MVVMC
+

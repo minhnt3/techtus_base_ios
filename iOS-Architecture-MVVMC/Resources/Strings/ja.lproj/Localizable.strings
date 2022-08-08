@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  iOS-Architecture-MVVMC
+
+  Created by Vu Le Van on 2022/05/20.
+  
+*/
+
+//MARK: Common
+"common.message.ok" = "わかった";
+"common.title.error" = "エラー";
+"common.button.cancel" = "キャンセル";
+"common.message.local_have_response" = "LocalError: Have response";
+"common.message.local_custom" = "LocalError: \(string)";
+"common.message.local_any" = "LocalError: Any Error";
+"common.message.service_time_out" = "ServiceError: Request Time Out";
+"common.message.service_url" = "ServiceError: URL Not Work";
+"common.message.service_json" = "ServiceError: Fail from Json";
+"common.message.service_localized" = "ServiceError: \(localizedDescription)";
+"common.message.service_nointernet" = "ServiceError: Network not conected!";
+"common.message.service_have_response" = "ServiceError: Have response";
+"common.message.service_statuscode" = "ServiceError: Service Response ";
+"common.message.service_custom" = "ServiceError: \(string)";
+"common.message.service_any" = "ServiceError: Out Of Define Error";
+"common.message.service_nodata" = "ServiceError: No Data Response";
+"common.message.service_maping_key_json" = "ServiceError: maping Json Key Fail";
+"common.message.service_encode_data" = "ServiceError: Encode data fail";
+"common.message.service_input_param" = "ServiceError: Input Param Not Work";
+"common.message.service_refresh_token" = "ServiceError: refresh token failed";
+
+//MARK: LoginView
+"loginscreen.label.user_name" = "ユーザー名";
+"loginscreen.label.password" = "パスワード";
+"loginscreen.label.login" = "ログイン";
+"loginscreen.button.login" = "ログイン";
+"loginscreen.message.enter_name" = "ユーザー名を入力してください";
+"loginscreen.message.enter_user" = "少なくとも5文字のユーザー名を入力してください";
+"loginscreen.message.enter_password" = "パスワードを入力してください。";
+"loginscreen.message.enter_password_least" = "少なくとも5文字のパスワードを入力してください";
+"loginscreen.message.login_success" = "ログイン成功";
+
+//MARK: Animals Screen
+"animalsscreen.title" = "動物";
+
+//MARK: Profile Screen
+"profilescreen.title" = "プロフィール";
+"profilescreen.label.name" = "名前";
+"profilescreen.label.email" = "電子メールアドレス";
+"profilescreen.label.phone" = "電話";
+"profilescreen.label.city" = "街";
